@@ -2,10 +2,10 @@
 
 ## I am working on software devolopment, and I upload all the projects that i working on. I'm  on here for the purpose of self-improvement. If you have any questions about the projects or are curious about anything, please feel free to reach out to me on social media.
 
-# 🔭 I'm currently working on .NET/MVC, WebApi's and SQL databases.
-# 📫 You can reach me on LinkedIn 
-# 🤔 I am relatively new around here, and I'm working on getting acclimated to the environment.
-## 👯Bye👯
+#  I'm currently working on .NET/MVC, WebApi's and SQL databases.
+#  You can reach me on LinkedIn 
+#  I am relatively new around here, and I'm working on getting acclimated to the environment.
+#
 <!--
 **mehmetcuhaci/mehmetcuhaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
