@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehmetcuhaci](https://github.com/mehmetcuhaci)
 
-- 💬 Ask me about **c#, .net and sql**
+- 💬 Ask me about **C#, .NET and SQL**
 
 - 📫 How to reach me **mehmet.cuhaci10@gmail.com**
 
