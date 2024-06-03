@@ -1,22 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mehmet Ali</h1>
+<h3 align="center">A passionate back-end developer trying to better himself</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetcuhaci&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetcuhaci" /> </p>
 
-## I am working on software devolopment, and I upload all the projects that i working on. I'm  on here for the purpose of self-improvement. If you have any questions about the projects or are curious about anything, please feel free to reach out to me on social media.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetcuhaci" alt="mehmetcuhaci" /></a> </p>
 
-#  I'm currently working on .NET/MVC, WebApi's and SQL databases.
-#  You can reach me on LinkedIn 
-#  I am relatively new around here, and I'm working on getting acclimated to the environment.
-#
-<!--
-**mehmetcuhaci/mehmetcuhaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **.NET Core and WEB API**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/mehmetcuhaci](https://github.com/mehmetcuhaci)
 
-- 🔭 I’m currently working on ...e
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **mehmet.cuhaci10@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EWo0_Ywe13Tcj1IbOMGv3DhMOgnkZ9uk/view?usp=drive_link](https://drive.google.com/file/d/1EWo0_Ywe13Tcj1IbOMGv3DhMOgnkZ9uk/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetcuhaci&show_icons=true&locale=en&layout=compact" alt="mehmetcuhaci" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetcuhaci&show_icons=true&locale=en" alt="mehmetcuhaci" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcuhaci&" alt="mehmetcuhaci" /></p>
