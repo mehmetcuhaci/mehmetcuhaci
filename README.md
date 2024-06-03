@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali</h1>
 <h3 align="center">A passionate back-end developer trying to better himself</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif](https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetcuhaci&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetcuhaci" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetcuhaci" alt="mehmetcuhaci" /></a> </p>
