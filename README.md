@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mehmet.cuhaci10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EWo0_Ywe13Tcj1IbOMGv3DhMOgnkZ9uk/view?usp=drive_link](https://drive.google.com/file/d/1EWo0_Ywe13Tcj1IbOMGv3DhMOgnkZ9uk/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gMjboahqCSN6DZ3u6_nr7fmd9hXaGFcX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
