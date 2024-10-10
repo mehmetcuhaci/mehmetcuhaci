@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetcuhaci&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetcuhaci" /> </p>
 
-- 🌱 I’m currently learning **.NET Core and WEB API**
+- 🌱 I’m currently working on **.NET Core and WEB API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehmetcuhaci](https://github.com/mehmetcuhaci)
 
